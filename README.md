@@ -3,6 +3,7 @@
 
   <img alt="Rust Bitcoin logo by Hunter Trujillo, see license and source files under /logo" src="./logo/rust-bitcoin.png" width="300" />
 
+    **Patched with Succint's secp256k1 library**
   <p>Library with support for de/serialization, parsing and executing on data-structures
     and network messages related to Bitcoin.
   </p>
